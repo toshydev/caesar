@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-from ceasar.cmdline import main
+from src.ceasar.cli import main
 
 if __name__ == "__main__":
     main()

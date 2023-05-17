@@ -2,6 +2,6 @@
 .DS_Store
 .env*
 __pycache__
-ceasar.egg-info
+caesar_toshydev*
 dist
 build

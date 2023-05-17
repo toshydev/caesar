@@ -1,2 +1,2 @@
-@py.exe \src\caesar\cli.py %*
+@py.exe ..\caesar\src\caesar_toshydev\cli.py %*
 @pause

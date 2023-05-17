@@ -1,4 +1,4 @@
-from ceasar.ceasar import __version__
+from ceasar import __version__
 
 with open("README.md", "r") as fh:
     description = fh.read()

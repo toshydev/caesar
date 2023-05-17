@@ -44,6 +44,3 @@ def main():
         print("Error! Invalid argument given.")
     except EOFError:
         print("Error: Invalid usage")
-
-
-main()

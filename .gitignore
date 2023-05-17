@@ -2,3 +2,6 @@
 .DS_Store
 .env*
 __pycache__
+ceasar.egg-info
+dist
+build

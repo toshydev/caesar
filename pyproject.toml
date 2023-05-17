@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ceasar_toshydev"
+version = "0.0.1"
+authors = [
+  { name="Anton Roters", email="antonroters@hotmail.com" },
+]
+description = "A Ceasar cipher ROT13 tool"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Natural Language :: English",
+    "Environment :: Console",
+    "Topic :: Security :: Cryptography",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/toshydev/ceasar"
+"Bug Tracker" = "https://github.com/toshydev/ceasar/issues"

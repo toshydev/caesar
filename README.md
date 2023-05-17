@@ -99,3 +99,5 @@ To quit _Interactive Mode_ use **`CTRL+C`**
 ```
 --- Exit Interactive Mode ---
 ```
+
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=toshydev&repo=ceasar&countColor=%237B1E7A)
